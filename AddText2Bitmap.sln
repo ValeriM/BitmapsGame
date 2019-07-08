@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddText2Bitmap", "AddText2Bitmap.vcxproj", "{24FF32DA-1FE2-4114-B843-BD2446E02757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FF32DA-1FE2-4114-B843-BD2446E02757}.Debug|x86.ActiveCfg = Debug|Win32
+		{24FF32DA-1FE2-4114-B843-BD2446E02757}.Debug|x86.Build.0 = Debug|Win32
+		{24FF32DA-1FE2-4114-B843-BD2446E02757}.Release|x86.ActiveCfg = Release|Win32
+		{24FF32DA-1FE2-4114-B843-BD2446E02757}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880D1F87-8A28-4084-A1C3-1B20C1255A5C}
+	EndGlobalSection
+EndGlobal
